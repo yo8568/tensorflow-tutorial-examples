@@ -1,11 +1,12 @@
 # Tensorflow tutorail notes
 
-[TensorFolw official tutorail])(https://www.tensorflow.org/tutorials)
+[TensorFolw official tutorail](https://www.tensorflow.org/tutorials)
 
 Follow the officail tutorail step to build the example prctices
 
 ### Examples
   1. [Basic Classification](https://www.tensorflow.org/tutorials/keras/basic_classification)
+    
     - use neural network model to classify images of clothing
     - refer to [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
 
