@@ -9,6 +9,10 @@ Follow the officail tutorail step to build the example prctices
 
   - use neural network model to classify images of clothing, and refer to [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
 
+2. [Regression]
+
+  - builds a model to predict the median price of homes in a Boston suburb during the mid-1970s.
+
 ## Get Start
 
 ***Change to example directory***

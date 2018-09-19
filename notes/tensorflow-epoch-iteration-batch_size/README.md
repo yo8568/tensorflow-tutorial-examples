@@ -1,3 +1,5 @@
+# Notes
+
 ### Epoch Iteration Batchsize in Tensorflow
 
 - epoch： 1個epoch等於使用訓練集中的全部樣本訓練一次。
